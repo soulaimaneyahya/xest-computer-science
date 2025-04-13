@@ -14,7 +14,7 @@ Grade: Mention bien
 - **Programmation**
 
 - Programmation en C
-- Algorithmes
+- Algorithmes, search, sorting ...
 
 - **Langues et Techniques de Communication**
 
@@ -36,7 +36,7 @@ Grade: Mention bien
 
 - **Structures de Données et Programmation Orientée Objet**
 
-- Structures de données
+- Structures de données, arrays, linked-list, ...
 - Introduction à la programmation orientée objet (OOP)
 
 - **Réseaux et Programmation Web**
@@ -48,7 +48,8 @@ Grade: Mention bien
 - **Systèmes d'Information et Bases de Données**
 
 - Systèmes d'information (Database design, UML, Merise)
-- Bases de données (Oracle DB, SQL Server, MySQL, PGSQL)
+- Bases de données (Oracle DB, Microsoft SQL Server, MySQL, PGSQL)
+- Windows server (12, 16), Linux-server
 
 ## Semestre 3
 
@@ -56,7 +57,7 @@ Grade: Mention bien
 
 - Droit et organisation des entreprises
 - Entrepreneuriat
-- IT job proifles
+- IT job profiles, roadmap
 
 - **Programmation et Conception Orientée Objet**
 
@@ -74,5 +75,6 @@ Grade: Mention bien
 
 - **PFE Project**
 
-- Supervision d'un réseau informatique avec nagios
+- Supervision d'un réseau informatique avec nagios, alerting-system
+- Networking Protocols; ICMP (ping availability), SNMP (machines metrics), SMTP protocol, ..
 - PHP-MySQL Project
