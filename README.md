@@ -48,8 +48,14 @@ Grade: Mention bien
 - **Systèmes d'Information et Bases de Données**
 
 - Systèmes d'information (Database design, UML, Merise)
-- Bases de données (Oracle DB, Microsoft SQL Server, MySQL, PGSQL)
-- Windows server (12, 16), Linux-server
+- Microsoft SQL Server  Database snapshots, mirroring, tuning performance
+- Windows server (12, 16), RAID, Linux-server
+
+- **Bases de données**
+- Oracle DB
+- Microsoft SQL Server
+- MySQL
+- PGSQL
 
 ## Semestre 3
 
@@ -62,8 +68,8 @@ Grade: Mention bien
 - **Programmation et Conception Orientée Objet**
 
 - Analyse et conception orientée objet
-- Programmation en C#
-- Programmation en Java
+- Programmation en C# // .NET
+- Programmation en Java; JAVA OOP; JAVA Swing library // JDBC
 
 - **Réseaux Informatiques**
 
