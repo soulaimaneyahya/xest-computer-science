@@ -84,3 +84,7 @@ Grade: Mention bien
 - Supervision d'un réseau informatique avec nagios, alerting-system
 - Networking Protocols; ICMP (ping availability), SNMP (machines metrics), SMTP protocol, ..
 - PHP-MySQL Project
+
+resources;
+- https://est-fes-genie-informatique.web.app/
+- http://elearn.est-usmba.ac.ma/est/course/index.php?categoryid=8
